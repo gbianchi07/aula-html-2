@@ -1,0 +1,33 @@
+html{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+h1{
+    font-size: 50px;
+    color: rgb(107, 31, 94);
+    text-align: center;
+}
+ 
+p,li{
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+
+}
+
+
+
+body{ background-color: blue;}
+
+ul{color: cyan;}
